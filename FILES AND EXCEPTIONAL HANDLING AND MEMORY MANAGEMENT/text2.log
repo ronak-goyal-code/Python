@@ -1,0 +1,73 @@
+2023-12-12 10:43:26,156 root INFO This is my info log.
+2023-12-12 11:13:04,194 parso.cache DEBUG pickle loaded: C:\Users\kk\anaconda33\lib\site-packages\jedi\third_party\typeshed\stdlib\3\builtins.pyi
+2023-12-12 11:13:04,272 parso.cache DEBUG pickle loaded: C:\Users\kk\anaconda33\lib\site-packages\jedi\third_party\typeshed\stdlib\3\sys.pyi
+2023-12-12 11:13:08,464 parso.python.diff DEBUG diff parser start
+2023-12-12 11:13:08,464 parso.python.diff DEBUG line_lengths old: 7; new: 7
+2023-12-12 11:13:08,464 parso.python.diff DEBUG -> code[equal] old[1:6] new[1:6]
+2023-12-12 11:13:08,464 parso.python.diff DEBUG copy old[1:2] new[1:2]
+2023-12-12 11:13:08,464 parso.python.diff DEBUG parse_part from 3 to 7 (to 6 in part parser)
+2023-12-12 11:13:08,475 parso.python.diff DEBUG -> code[replace] old[7:7] new[7:7]
+2023-12-12 11:13:08,476 parso.python.diff DEBUG diff parser end
+2023-12-12 11:13:08,562 parso.cache DEBUG pickle loaded: C:\Users\kk\anaconda33\lib\typing.py
+2023-12-12 11:13:08,610 parso.cache DEBUG pickle loaded: C:\Users\kk\anaconda33\lib\site-packages\jedi\third_party\typeshed\stdlib\3\typing.pyi
+2023-12-12 11:13:09,143 parso.python.diff DEBUG diff parser start
+2023-12-12 11:13:09,143 parso.python.diff DEBUG line_lengths old: 7; new: 7
+2023-12-12 11:13:09,143 parso.python.diff DEBUG -> code[equal] old[1:6] new[1:6]
+2023-12-12 11:13:09,143 parso.python.diff DEBUG copy old[1:2] new[1:2]
+2023-12-12 11:13:09,152 parso.python.diff DEBUG parse_part from 3 to 7 (to 6 in part parser)
+2023-12-12 11:13:09,152 parso.python.diff DEBUG -> code[replace] old[7:7] new[7:7]
+2023-12-12 11:13:09,152 parso.python.diff DEBUG diff parser end
+2023-12-12 11:13:23,698 parso.python.diff DEBUG diff parser start
+2023-12-12 11:13:23,698 parso.python.diff DEBUG line_lengths old: 7; new: 8
+2023-12-12 11:13:23,698 parso.python.diff DEBUG -> code[equal] old[1:6] new[1:6]
+2023-12-12 11:13:23,698 parso.python.diff DEBUG copy old[1:2] new[1:2]
+2023-12-12 11:13:23,710 parso.python.diff DEBUG parse_part from 3 to 8 (to 7 in part parser)
+2023-12-12 11:13:23,710 parso.python.diff DEBUG -> code[replace] old[7:7] new[7:8]
+2023-12-12 11:13:23,710 parso.python.diff DEBUG diff parser end
+2023-12-12 11:13:37,755 parso.python.diff DEBUG diff parser start
+2023-12-12 11:13:37,755 parso.python.diff DEBUG line_lengths old: 8; new: 9
+2023-12-12 11:13:37,755 parso.python.diff DEBUG -> code[equal] old[1:7] new[1:7]
+2023-12-12 11:13:37,755 parso.python.diff DEBUG copy old[1:2] new[1:2]
+2023-12-12 11:13:37,773 parso.python.diff DEBUG parse_part from 3 to 9 (to 8 in part parser)
+2023-12-12 11:13:37,775 parso.python.diff DEBUG -> code[replace] old[8:8] new[8:9]
+2023-12-12 11:13:37,775 parso.python.diff DEBUG diff parser end
+2023-12-12 11:13:40,029 parso.python.diff DEBUG diff parser start
+2023-12-12 11:13:40,029 parso.python.diff DEBUG line_lengths old: 9; new: 9
+2023-12-12 11:13:40,029 parso.python.diff DEBUG -> code[equal] old[1:8] new[1:8]
+2023-12-12 11:13:40,029 parso.python.diff DEBUG copy old[1:2] new[1:2]
+2023-12-12 11:13:40,029 parso.python.diff DEBUG parse_part from 3 to 9 (to 8 in part parser)
+2023-12-12 11:13:40,029 parso.python.diff DEBUG -> code[replace] old[9:9] new[9:9]
+2023-12-12 11:13:40,036 parso.python.diff DEBUG diff parser end
+2023-12-12 11:14:09,795 parso.python.diff DEBUG diff parser start
+2023-12-12 11:14:09,795 parso.python.diff DEBUG line_lengths old: 9; new: 12
+2023-12-12 11:14:09,795 parso.python.diff DEBUG -> code[equal] old[1:8] new[1:8]
+2023-12-12 11:14:09,795 parso.python.diff DEBUG copy old[1:2] new[1:2]
+2023-12-12 11:14:09,804 parso.python.diff DEBUG parse_part from 3 to 12 (to 11 in part parser)
+2023-12-12 11:14:09,806 parso.python.diff DEBUG -> code[replace] old[9:9] new[9:12]
+2023-12-12 11:14:09,806 parso.python.diff DEBUG diff parser end
+2023-12-12 11:14:19,810 parso.python.diff DEBUG diff parser start
+2023-12-12 11:14:19,810 parso.python.diff DEBUG line_lengths old: 12; new: 1
+2023-12-12 11:14:19,810 parso.python.diff DEBUG -> code[replace] old[1:12] new[1:1]
+2023-12-12 11:14:19,810 parso.python.diff DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2023-12-12 11:14:19,810 parso.python.diff DEBUG diff parser end
+2023-12-12 11:14:26,597 parso.python.diff DEBUG diff parser start
+2023-12-12 11:14:26,597 parso.python.diff DEBUG line_lengths old: 1; new: 1
+2023-12-12 11:14:26,597 parso.python.diff DEBUG -> code[replace] old[1:1] new[1:1]
+2023-12-12 11:14:26,597 parso.python.diff DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2023-12-12 11:14:26,597 parso.python.diff DEBUG diff parser end
+2023-12-12 11:19:30,453 root INFO This is my start of my first loop [1, 2, 3, [4, 5, 6], 'sudh', 'kumar']
+2023-12-12 11:19:30,453 root INFO This is the value of i am logging 1
+2023-12-12 11:19:30,453 root INFO This is my start of my first loop [1, 2, 3, [4, 5, 6], 'sudh', 'kumar']
+2023-12-12 11:19:30,453 root INFO This is the value of i am logging 2
+2023-12-12 11:19:30,454 root INFO This is my start of my first loop [1, 2, 3, [4, 5, 6], 'sudh', 'kumar']
+2023-12-12 11:19:30,454 root INFO This is the value of i am logging 3
+2023-12-12 11:19:30,454 root INFO This is my start of my first loop [1, 2, 3, [4, 5, 6], 'sudh', 'kumar']
+2023-12-12 11:19:30,454 root INFO This is the value of i am logging [4, 5, 6]
+2023-12-12 11:19:30,454 root INFO logging my j 4 and i is [4, 5, 6]
+2023-12-12 11:19:30,454 root INFO logging my j 5 and i is [4, 5, 6]
+2023-12-12 11:19:30,456 root INFO logging my j 6 and i is [4, 5, 6]
+2023-12-12 11:19:30,456 root INFO This is my start of my first loop [1, 2, 3, [4, 5, 6], 'sudh', 'kumar']
+2023-12-12 11:19:30,456 root INFO This is the value of i am logging sudh
+2023-12-12 11:19:30,456 root INFO This is my start of my first loop [1, 2, 3, [4, 5, 6], 'sudh', 'kumar']
+2023-12-12 11:19:30,456 root INFO This is the value of i am logging kumar
+2023-12-12 11:19:30,456 root INFO This is my final result with all int [1, 2, 3, 4, 5, 6] , with all str ['sudh', 'kumar']

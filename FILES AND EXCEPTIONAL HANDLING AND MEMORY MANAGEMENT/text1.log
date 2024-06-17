@@ -1,0 +1,19 @@
+2023-12-12 10:30:34,739 This is my info log.
+2023-12-12 10:31:28,657 This is my debug log.
+2023-12-12 10:31:54,610 This is my waring.
+2023-12-12 10:38:47,911 pickle loaded: C:\Users\kk\anaconda33\lib\logging\__init__.py
+2023-12-12 10:38:47,947 diff parser start
+2023-12-12 10:38:47,947 line_lengths old: 1; new: 1
+2023-12-12 10:38:47,947 -> code[replace] old[1:1] new[1:1]
+2023-12-12 10:38:47,950 parse_part from 1 to 1 (to 0 in part parser)
+2023-12-12 10:38:47,950 diff parser end
+2023-12-12 10:39:00,487 diff parser start
+2023-12-12 10:39:00,497 line_lengths old: 1; new: 1
+2023-12-12 10:39:00,497 -> code[replace] old[1:1] new[1:1]
+2023-12-12 10:39:00,497 parse_part from 1 to 1 (to 0 in part parser)
+2023-12-12 10:39:00,497 diff parser end
+2023-12-12 10:40:15,061 diff parser start
+2023-12-12 10:40:15,061 line_lengths old: 1; new: 1
+2023-12-12 10:40:15,061 -> code[replace] old[1:1] new[1:1]
+2023-12-12 10:40:15,061 parse_part from 1 to 1 (to 0 in part parser)
+2023-12-12 10:40:15,061 diff parser end
